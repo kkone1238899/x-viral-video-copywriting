@@ -101,6 +101,33 @@
 
 **来源**：[@Sanwerrs_AI 原帖 thread](https://x.com/Sanwerrs_AI/status/2110823025419665887) · 2026-10-15 发布
 
+### $3M TikTok Shop 的 10 个 ChatGPT 带货 Prompt（@thetiktokwiz）
+
+**核心提炼**
+- 解决什么问题：TikTok Shop 带货全流程 prompt 拼不齐——10 条即拿即用的 ChatGPT prompt，覆盖店名→设计发散→人群→listing 文案→广告测算→违规申诉全链路。
+- 总纲（最重要的一条）：绝不让 ChatGPT 从零发挥创意——每条 prompt 都先喂给它"已经跑通的东西"（已验证的 format + 清晰客户画像 + 真实产品 + 好参考）。
+- 核心用法（6 步）：1) 店铺命名 prompt：批量生成宽泛品类店名（首字母缩写 4+ 字母、干净好记），快速筛出可用名；2) 爆款发散 prompt：把 ChatGPT 设定为"病毒式幽默 POD 服装营销策略师"，围绕已验证的爆款设计批量发散 50 个；3) 人群扩展 prompt：顺手要 20 个面向第二人群（如 Gen X）的短语，一次覆盖多人群；4) 风格对齐 prompt：要 10 个"简单、有力、反讽、boss energy"同类思路，写给真正买单的人；5) 迭代 prompt：对"差一点就爆"的创意像对待同事一样反复追问，把半成品推过终点；复用 prompt：喂给它"已经卖爆的概念"，基于成功案例再出新点子；6) 盈亏测算 prompt：把 ChatGPT 设为电商分析师，输入售价/成本/平台佣金/达人佣金，算出盈亏平衡 ROAS 和健康目标区间（示例数字：售价 23.99、成本 7.26、8% 平台佣金、20% 达人佣金 → 盈亏平衡 2.4）。
+- 什么时候用 / 常见坑：TikTok Shop 起店、广告投放前测算、违规申诉时；坑：盈亏平衡 ROAS 只是及格线，测算出的"健康目标"才值得加预算；产品 P 到 AI 模特出视频时逐字检查字母拼写。
+
+**适用场景**：TikTok Shop 卖家、POD（按需印制）服饰带货团队、跨境电商代运营。
+
+**怎么用它搞钱**：TikTok Shop 代运营——按这 10 条 prompt 搭起号全流程，按店/按月收费；带货矩阵批量产设计+文案，规模即利润。
+
+**来源**：[@thetiktokwiz 原帖 Article](https://x.com/thetiktokwiz/status/2111117682535805077) · 2026-10-16 发布
+
+### $200k AI UGC 获客 Playbook（@BrianFrydberg）
+
+**核心提炼**
+- 解决什么问题：APP 获客做 faceless 内容缺"人格"、爆款不可复制——完整 AI UGC 方法论：3 种可规模化 format + "一胜百"拆解法 + 数据迭代规则 + 矩阵号搭建。
+- 核心用法（6 步）：1) 评判视频只看三件事：是否停留、是否理解产品、是否执行 CTA——播放量不等于转化；2) 开拍前先回答三个问题：看完用户去哪、必须理解什么、用户已在解决什么问题；3) 三种可规模化 format：AI slideshows（Pinterest 建图库喂 LLM，最便宜易放大）、AI UGC creators（talking-head 全 AI 工作流：脚本→AI 人物→成片→配音→剪辑，全链可 agent 自动化）、AI cartoon influencers（最少人做、正在起量）；4) "一胜百"拆解法：不逐字抄爆款，按"前 3 秒发生了什么/产品何时出现/说话时在干嘛/hook 引入什么痛点/CTA 前产品做了什么"拆解，再换 hook/人物/房间/痛点/语言做 20–50 个单变量测试，并建一个可复用 prompt，输入获胜视频批量输出新 hook/脚本/场景；5) 数据迭代规则：同一 hook 在 3 个创作者都有效就继续推；产品出现前流失就提前露产品；6) 矩阵搭建：先 2–3 号验证 format 再放大（2–5 部手机+独立代理、n8n 定时发布、10–50 个号）。
+- 什么时候用 / 常见坑：APP/产品用 AI 内容规模化获客、UGC 素材产能不够时；坑：别盯播放量虚荣指标，只盯停留/理解/CTA 三件事；平台要求标注 AI 生成，不编造证言。
+
+**适用场景**：APP 推广团队、效果广告代投、做矩阵号获客的独立开发者/小团队。
+
+**怎么用它搞钱**：AI UGC 代制 / 效果投放代运营——按 playbook 建一条"拆解→复写→测试→放大"流水线，按素材条数或广告消耗提点收费；自己跑 APP 时获客成本可压缩到人工团队的零头。
+
+**来源**：[@BrianFrydberg 原帖 Article](https://x.com/BrianFrydberg/status/2111131424090653182) · 2026-10-16 发布
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -131,6 +158,7 @@
 
 ## 更新日志
 
+- 2026-10-16：午档新增 2 条 X 干货（@thetiktokwiz $3M TikTok Shop 10 个 ChatGPT 带货 prompt 全链路、@BrianFrydberg $200k AI UGC 获客 playbook：三种可规模化 format + 一胜百拆解法 + 矩阵搭建，均按价值铁律提炼 3-8 要点入库）；15 组中英关键词交叉 + 3 账号时间线抽查，中文关键词今日无合格新命中、@Sanwerrs_AI 6 prompt 线程复读/一句话感叹按去重/宁缺毋滥剔除，未凑数；共 9 条
 - 2026-10-12：条目改小节格式（核心提炼/适用场景/怎么用它搞钱/来源）；seedance-viral-forge 因 star 18 未达收录线删除，替换为 rediumvex/viral-hooks-skill；新增 FeiFei-AIDev/ai-script-generation-skill、yanlinyi101/Video-Script-Reverse-Engineering-Pro；共 4 条
 - 2026-10-16：新增 3 条 X 干货（@wangzaimedia 抄超钞 IP 文案心法、@free1342280 TikTok 爆款广告 3 反直觉素材公式、@Sanwerrs_AI 电商产品页 6 个复制粘贴 prompt，均按价值铁律提炼 3-8 要点入库）；GitHub 侧 4 组关键词全军覆没（`copywriting ai` / `video script writing` / `video copywriting prompt` / `带货文案`，命中全 0–1 star 或无关垃圾，按宁缺毋滥 0 收录）；共 7 条
 - 2026-10-11：首版，2 个项目，持续收录中
