@@ -6,7 +6,7 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-10-12. Continuously updated.
+> Star counts verified via GitHub API on 2026-11-12. Continuously updated.
 
 ## 条目
 
@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：UGC 广告代投 / 带货——给品牌接 UGC 风格广告片代制按条收费，或给自己带货矩阵批量出广告素材。
 
-**来源**：[cliprise/awesome-ai-ugc-video-prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) · ⭐47 · 更新于 2026-04-28
+**来源**：[cliprise/awesome-ai-ugc-video-prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) · ⭐54 · 更新于 2026-04-28
 
 ### 100 个短视频钩子公式（rediumvex/viral-hooks-skill）
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：短视频钩子代写/代运营服务；给客户账号批量优化旧视频开头，按条收费。
 
-**来源**：[rediumvex/viral-hooks-skill](https://github.com/rediumvex/viral-hooks-skill) · ⭐101 · 更新于 2026-05-05
+**来源**：[rediumvex/viral-hooks-skill](https://github.com/rediumvex/viral-hooks-skill) · ⭐123 · 更新于 2026-05-05
 
 ### AI 短视频脚本生成 Skill（FeiFei-AIDev/ai-script-generation-skill）
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：AI 教程号矩阵起号（脚本成本降到零）；接 AI 工具商单，按视频收费。
 
-**来源**：[FeiFei-AIDev/ai-script-generation-skill](https://github.com/FeiFei-AIDev/ai-script-generation-skill) · ⭐52 · 更新于 2026-06-25
+**来源**：[FeiFei-AIDev/ai-script-generation-skill](https://github.com/FeiFei-AIDev/ai-script-generation-skill) · ⭐56 · 更新于 2026-06-25
 
 ### 爆款视频逆向工程（yanlinyi101/Video-Script-Reverse-Engineering-Pro）
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：爆款复制代运营（给商家/博主做对标账号的爆款复刻），按爆款条数或月费收费。
 
-**来源**：[yanlinyi101/Video-Script-Reverse-Engineering-Pro](https://github.com/yanlinyi101/Video-Script-Reverse-Engineering-Pro) · ⭐33 · 更新于 2026-03-18
+**来源**：[yanlinyi101/Video-Script-Reverse-Engineering-Pro](https://github.com/yanlinyi101/Video-Script-Reverse-Engineering-Pro) · ⭐35 · 更新于 2026-03-18
 
 ### 个人 IP 文案心法：抄—超—钞（@wangzaimedia）
 
@@ -204,7 +204,7 @@
 
 **怎么用它搞钱**：文案代写/优化服务——用这套"感受+最简说法+33 信号清洗"流程给客户重写标题和产品页，按页/按条收费；自己带货时先过一遍清洗再投放。
 
-**来源**：[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) · ⭐1234 · MIT · 更新于 2026-08-01
+**来源**：[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) · ⭐1205 · MIT · 更新于 2026-08-01
 
 ### 电商视觉文案 SOP：证据账本＋单图单决策（feichanggege/ecommerce-visual-copywriting-skill）
 
@@ -217,7 +217,7 @@
 
 **怎么用它搞钱**：详情页/主图视觉文案代制——按"证据账本+逐图执行卡"流程接单，按套收费；自己开店时一套 SOP 批量出合规主图。
 
-**来源**：[feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) · ⭐982 · MIT · 更新于 2026-10-29
+**来源**：[feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) · ⭐1073 · MIT · 更新于 2026-10-29
 
 ### 《爆款文案》方法蒸馏：14 个销售文案 Skill（kangarooking/viral-copywriting-skill）
 
@@ -230,7 +230,7 @@
 
 **怎么用它搞钱**：销售文案诊断+重写服务——按四步漏斗定位断点、逐段重写，按篇/按月收费；自己带货时先诊断再投放。
 
-**来源**：[kangarooking/viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) · ⭐80 · MIT · 更新于 2026-05-02
+**来源**：[kangarooking/viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) · ⭐87 · MIT · 更新于 2026-05-02
 
 ### 直复式文案 5 件套：写、审、合规一条链（robpalmer99/claude-code-copywriting-skills）
 
@@ -243,7 +243,7 @@
 
 **怎么用它搞钱**：广告文案全链路代制+合规审计——广告、桥页、销售页、审稿打包收费；自己投放时先过合规关再加预算。
 
-**来源**：[robpalmer99/claude-code-copywriting-skills](https://github.com/robpalmer99/claude-code-copywriting-skills) · ⭐45 · 暂无 LICENSE，已注明 · 更新于 2026-05-12
+**来源**：[robpalmer99/claude-code-copywriting-skills](https://github.com/robpalmer99/claude-code-copywriting-skills) · ⭐49 · 暂无 LICENSE，已注明 · 更新于 2026-05-12
 
 ### DTC 文案 44 件套：RMBC 方法＋5 道质量门（coleschaffer/dtc-copywriting-skills）
 
@@ -256,7 +256,7 @@
 
 **怎么用它搞钱**：DTC 文案代写——按 RMBC+质量门流程给品牌出钩子库和促销邮件，按批收费；自己跑店时用质量门自查再投放。
 
-**来源**：[coleschaffer/dtc-copywriting-skills](https://github.com/coleschaffer/dtc-copywriting-skills) · ⭐28 · MIT · 更新于 2026-04-13
+**来源**：[coleschaffer/dtc-copywriting-skills](https://github.com/coleschaffer/dtc-copywriting-skills) · ⭐30 · MIT · 更新于 2026-04-13
 
 ### 短视频脚本生成 Skill：主题→可拍脚本一条线（ShortVideo-AI/short-video-script-skill）
 
@@ -269,7 +269,7 @@
 
 **怎么用它搞钱**：知识类短视频代制——按"主题→脚本→分镜→发布文案"一条线批量出稿，按条收费；自己起号时把选题转脚本的成本降到零。
 
-**来源**：[ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) · ⭐36 · 暂无 LICENSE，已注明 · 更新于 2026-07-05
+**来源**：[ShortVideo-AI/short-video-script-skill](https://github.com/ShortVideo-AI/short-video-script-skill) · ⭐45 · 暂无 LICENSE，已注明 · 更新于 2026-07-05
 
 ### 理科浪漫：感性命题套数学模型（@KOF97AI）
 
@@ -296,6 +296,97 @@
 **怎么用它搞钱**：产品页文案重写服务——按"删怂话 + 写死规格 + 权利表述换效果承诺"三招逐页改写，按页收费；自己跑站时先改完再上线。
 
 **来源**：[@nickling017 原帖](https://x.com/nickling017/status/2116094991953281496) · 2026-10-30 17:08 发布（北京时间，经 fxtwitter API 核验）
+
+### Grok Bot 脚本教练法：别让 AI 替你写，让它让你写得更好（@XCreators，作者 @Ethan_Ng_13）
+
+**核心提炼**
+- 解决什么问题：脚本写出来自己看不出问题——开头慢、过早开讲、中间泄气，观众在哪流失不知道。
+- 核心用法（4 步）：1) 先训练 Bot 认识你：喂它极具吸引力的视频 + 自己表现好的视频，教它你的风格、结构和声音，再接分析数据；2) 灵感整理五维：每个存下来的视频拆成为什么有效 / 钩子 / 节奏 / 声音 / 怎么变成自己的，存进 Notion 或 Google Doc；3) 脚本教练：别让 Bot 替你写，让它给你每个脚本打分，标记观众可能流失处，如"Hook is too slow.""You start teaching too early.""Tension drops here. Consider cutting this line.""This doesn't sound like you."——丢一段意识流草稿，拿回更强的钩子和更紧的节奏；4) 留存掉点复盘：接各平台分析，追踪留存掉点，如 0:18 掉留存的拆解（发生了什么 / 视觉 / 故事 / 教训：视频开始讲解而不是推进故事、镜头一直没换、开放悬念已解决——教训是讲解时也要保持视觉与故事张力），教训直接进下一条脚本。
+- 什么时候用 / 常见坑：脚本写完送审前、复盘掉留存时；坑：好内容取决于钩子、节奏、韵律、开放悬念四件事，教练法的前提是先喂够风格样本，没喂样本的 Bot 只会给通用建议；本条只收脚本教练与复盘方法，文中编辑器 7 步、并行剪片与分发属制作环节未计入。
+
+**适用场景**：做短视频脚本、想把 AI 当教练而不是代笔的创作者和编剧团队。
+
+**怎么用它搞钱**：脚本教练 / 审稿服务——按"风格样本 + 打分 + 掉点复盘"给客户做脚本诊断，按条收费；自己起号时每条脚本先过教练再拍。
+
+**来源**：[@XCreators 原帖 + X Article 全文（作者 @Ethan_Ng_13）](https://x.com/XCreators/status/2118843705327026400) · 2026-11-07 07:11 发布（北京时间，经 fxtwitter API 核验，Article 全文已读；引用链：@llllleo9 于 11 月 7 日引用推荐）
+
+### 收纳小件获客：一镜到底承重测试带货模板（@billzackfo）
+
+**核心提炼**
+- 解决什么问题：收纳小件（挂钩 / 置物架 / 粘钩）参数写得再好观众也不信"承重 10 公斤"——便宜小件最难的是让人相信它真的好用。
+- 核心用法（4 步）：1) 为什么有效：痛点具体到人群（租房不能打孔、退房怕扣押金）；承重测试几秒内回答买家最关心的三个问题（撑不撑得住、装起来难不难、撕下来会不会伤墙）；一镜到底不剪辑，信任成本最低，重量一件件往上加本身有悬念、完播率高；产品便宜，看完不用比价就能下单；2) 15–25 秒竖屏模板：0–2 秒字幕问句直怼已贴好的挂钩，不要片头自我介绍；2–12 秒同一机位一件件往上挂（毛巾、洗发水、一桶水、一袋米），每加一件实时显示累计重量，最好用电子秤先称给观众看；12–18 秒用手撕下挂钩，墙面近景特写证明没留痕（只在真的不留痕时拍）；18–22 秒切真实使用画面一句话说用在哪里；结尾 2 秒字幕"租房党看这里"或"链接在购物车"，不要喊口号；3) 开头备选 4 条（同一主体视频只换前 2 秒各发一版测试）；4) 7 天测试计划：先测出真实最大承重和静置时间，拍 3 条承重测试 + 3 条"租房别打孔"身份型脚本，6 条挂车发布，7 天只看一个指标——单条视频出单数，跑出来的换 3–5 个开头再发或找达人按同一结构翻拍。
+- 什么时候用 / 常见坑：卖点是"结实、能装、不坏"的小件（免打孔挂钩、粘钩、置物架、伸缩杆、磁吸收纳、真空压缩袋、手机支架、车载挂钩等）时；坑：承重数字必须自己测出并写清测试条件（墙面材质、静置时间），夸大承重属虚假宣传；避免"最强""永不掉落"等绝对化表述；案例销量数据（900 万播放、5000+ 单等）为第三方平台和媒体转述、不同来源数字不一致，作者原文已注明"请当参考，不要拿来对外承诺"；AI 可批量生成开头文案和多语言字幕，但承重画面必须真实拍摄，别用 AI 生成测试画面。
+
+**适用场景**：TikTok / 抖音带货卖家、家居日用小件、UGC 广告素材团队。
+
+**怎么用它搞钱**：带货视频代制——按"一镜到底承重测试"模板给小件卖家批量出可挂车视频，按条收费；自己选品时先按模板拍 6 条测款，出单的再放大。
+
+**来源**：[@billzackfo 原帖 + X Article 全文](https://x.com/billzackfo/status/2120089687742112044) · 2026-11-10 17:42 发布（北京时间，经 fxtwitter API 核验，Article 全文已读）
+
+### AI 短剧带货"文案变戏"法：商品两次出场（@changliuandlina）
+
+**核心提炼**
+- 解决什么问题：养生茶、书单号那套文案在美国 TikTok 怎么卖——直接念文案没人看，商品硬插进剧情观众就划走。
+- 核心用法（4 步）：1) 3 分钟以上长剧情，先交代处境、委屈与翻身：多出来的时间拿去讲一个人的处境，等商品正式推到面前，前面已有一段故事替它铺好场景；2) 商品两次出场：先在故事里被使用 / 喝到（五宝茶在 2 分 10 秒左右由身边人递上，镜头带茶汤和原料，台词介绍；书在 23 秒已作为道具拿在手里，到 2 分 03 秒台词才讲出意义），再在结尾集中切商品与购买提示；3) 悬念留存：女人能不能过好、原丈夫什么时候后悔，评论区有人留言要"下一集"；4) 迁移与本地化：国内做过书单号的人，手里存着讲婚姻、讲委屈、讲重新开始的文案，过去是配图配乐打字幕，现在让人物经历它、让书在她需要时出现；做养生茶先想清楚什么样的人、在一天里什么时刻想起这一杯茶，再围绕那段生活写剧情；换到美国 TikTok 要重新处理人物说话方式、生活场景与愿意相信什么（如讲祈祷的书用《圣经》"40 天"寓意），只把中文换成英文还不够。
+- 什么时候用 / 常见坑：做 AI 短剧带货、想把旧文案翻成剧情时；坑：商品什么时候出现、为什么出现在这里，得有人想明白，不能硬插；文中销量（五宝茶 40,681 件、书 30,222 本、卡片 2,066 件）为 11 月 11 日查询的商品上架以来全球累计销量、已扣退货，不能算成这三条视频带来的订单，作者原文已注明。
+
+**适用场景**：TikTok Shop 短剧带货、AI 短剧团队、手里有旧书单号 / 养生茶文案想翻新的创作者。
+
+**怎么用它搞钱**：AI 短剧带货代制——按"旧文案变戏 + 商品两次出场"给品牌把存量文案翻成带货短剧，按条收费；自己跑店时先翻以前最能让人停下来的那段话。
+
+**来源**：[@changliuandlina 原帖 + X Article 全文](https://x.com/changliuandlina/status/2120467127492558948) · 2026-11-11 18:42 发布（北京时间，经 fxtwitter API 核验，Article 全文已读）
+
+### 小红书虚拟资料文案方法：Why-What 详情页＋5 大选题引擎（@GeekCatX）
+
+**核心提炼**
+- 解决什么问题：小红书卖虚拟资料（模板 / 题库 / 知识库）不知道怎么写详情页和笔记——推销味太浓没曝光，详情页抓不住下单点。
+- 核心用法（5 组）：1) 详情页 Why-What：Why 分两层——为什么是我（来时路 / 积累 / 独家理念）、为什么要买（差异化优势）；What 是产品是什么 / 可感知价值（永久更新、字数、包含内容）；范例结构：交代你是谁 → 为什么有资格 → 读者证言；2) 爆单笔记 5 大选题引擎：AI+乘风选题法（把词库给 DeepSeek，出 20 个选题方向 + 20 个含热门搜索词的标题 + 选题理由 + 核心关键词，公式【高搜索词】+【人群/场景】+【长尾词】）、量化投入时间法（把投入时间量化成信任状，如"48 小时没睡""听了 1000 小时播客"）、评论区选题法（高赞评论 = 群体共识，让 AI 就疑问出 20 个选题）、内容结构化选题法（把虚拟产品内容本身当选题：每道面试题、每篇文章都是一篇笔记）、搜索下拉框选题法（搜场景词 / 人群词 / 需求词，联想词即选题）；3) 商品笔记 4 步：场景识别 → 问题匹配 → 解决方案包装 → 关键词提炼；4) 关键词 4 类词 + 7 阶段决策旅程：长尾精准词 / 商业意图词 / 概念教育词 / 身份认同词，按问题意识 → 信息收集 → 方案考虑 → 决策评估 → 购买 → 使用 → 忠诚 7 个阶段布局；5) 去 AI 味：让 AI 做填空题而不是写作文——先给参考文案让 AI 细粒度拆解结构，再结合新主题和关键词填词；标题仿写：找 3 个喜欢的标题发给 AI，融入主题 + 关键词，仿写 10–20 个。
+- 什么时候用 / 常见坑：做小红书虚拟资料 / 知识付费、写商销笔记和详情页时；坑：这是 5 万字手册的文案部分提炼，选品 / 店铺 / 对标等章节未计入本条；文中销量案例（如某攻略 9.9 元月销 2000+、春招表卖 3000 多份）为作者自述，未独立核验；低质堆量笔记会被限流甚至封号，别用堆量代替选题。
+
+**适用场景**：小红书虚拟资料卖家、知识付费创作者、做商销笔记和详情页的团队。
+
+**怎么用它搞钱**：虚拟资料代制 / 小红书代运营——按"Why-What 详情页 + 5 大选题引擎 + 关键词布局"给客户搭一套出单笔记体系，按店 / 按月收费；自己卖资料时先跑通一个品再扩产品线。
+
+**来源**：[@GeekCatX 原帖 + X Article 全文](https://x.com/GeekCatX/status/2120483872106225728) · 2026-11-11 19:48 发布（北京时间，经 fxtwitter API 核验，Article 全文已读）
+
+### 一条内容拆十条系列作品：母题拆解法（@VivienneAI0120）
+
+**核心提炼**
+- 解决什么问题：写完一条内容，第二天又对着空白文档找选题——一个母题只用一次就扔掉，重复准备耗精力。
+- 核心用法（5 步）：1) 母题四问先判断能不能拆：照片里能指出问题的位置吗？能拿同一件衣服改变其中一个条件吗？调整后读者能看见差别吗？看完这条读者能给自己做一个决定吗？2) 每条填一张任务卡（读者问题 / 固定条件 / 本次变化 / 所需证据 / 本条成果），每次只改变一个条件；3) 每篇按五页结构写（开题 / 条件 / 操作 / 观察差别 / 完成选择），读者从任何一条进入都能得到完整答案，不靠"下一篇告诉你"吊胃口；4) 集中拍摄：5 组素材一天拍完 10 条，文案写完、照片没拍只能记为待拍；5) AI 用三轮（拆题 → 查重 → 单篇写 → 扩写），发完按复盘四段复盘（这条做对了什么 / 哪段多余 / 读者最可能记住的一句 / 下条怎么改）。
+- 什么时候用 / 常见坑：手里有一条跑通的内容、想做成系列时；坑：十条是目标不是硬指标，只能找到六个问题就先做六条，别强行写满；没有实拍支撑的结论别写（没穿一整天就不写"一天下来完全不皱"，没数据就不写"这样拍就能涨粉"）；演示案例是穿搭图文，但拆题 / 任务卡 / 五页结构可直接迁移到短视频系列脚本。
+
+**适用场景**：做系列内容、想把一条爆款拆成持续更新的账号的创作者；图文与短视频均可。
+
+**怎么用它搞钱**：系列内容代制 / 账号陪跑——按"母题拆解 + 任务卡 + 集中拍摄"给客户把一条内容扩成十条，按系列收费；自己起号时一条母题吃十条流量。
+
+**来源**：[@VivienneAI0120 原帖 + X Article 全文](https://x.com/VivienneAI0120/status/2120542228980576687) · 2026-11-11 23:40 发布（北京时间，经 fxtwitter API 核验，Article 全文已读）
+
+### Gemini 跑 Instagram 月度内容：Hook Bank＋Reel Scriptwriter 两条文案提示词（@Jeffar_AI）
+
+**核心提炼**
+- 解决什么问题：每月 Instagram 内容从空白网格开始没章法——开场白想不出、60 秒脚本结构散。
+- 核心用法（串中与文案直接相关的 2 条，另有月度系统 / 轮播图引擎 / 故事转化 / 多平台改写 / 数据复盘 5 条配套）：1) Hook Bank：给一个主题，写 30 条 12 词以内的开场白，分好奇、反常识、结果、故事、提问五类，排前十并按静音播放效果排序，指出哪三条更适合轮播图而非 Reels；2) Reel Scriptwriter：写 60 秒视频脚本，结构是 3 秒钩子 + 核心问题铺垫 + 3 个快节奏执行步骤 + 无缝 CTA，每 2.5 秒给一条方括号视觉指示，保持视觉动量。
+- 什么时候用 / 常见坑：做 Instagram Reels / 轮播图月度内容规划时；坑：原串是 Instagram 场景，两条提示词可直接迁移到 TikTok / Shorts 脚本；其余 5 条为配套提示词，本条只收文案相关的 2 条。
+
+**适用场景**：做 Instagram / TikTok 短视频、需要批量出开场白和 60 秒脚本的创作者和代运营。
+
+**怎么用它搞钱**：短视频脚本代写——按"Hook Bank 批量出开头 + Reel Scriptwriter 出成片脚本"打包，按条 / 按月收费；自己起号时一个月内容一次排好。
+
+**来源**：[@Jeffar_AI 原帖串 2/、4/](https://x.com/Jeffar_AI/status/2120567721545154737) · 2026-11-12 01:21 发布（北京时间，经 fxtwitter API 核验；串首见 https://x.com/Jeffar_AI/status/2120567704071688551；2/ Hook Bank 帖 https://x.com/Jeffar_AI/status/2120567714385461614、3/ 轮播图引擎帖 https://x.com/Jeffar_AI/status/2120567717862518930 亦经 API 核验）
+
+### 退货原因核对详情页：卖点兑现边界（@Bengz168）
+
+**核心提炼**
+- 解决什么问题：AI 商品图和带货文案越做越漂亮，退货原因却没人认真看——页面承诺与实物对不上，退货率吃掉利润。
+- 核心用法（3 步）：1) 人来核实卖点和使用边界：理解买家在什么场景下购买、担心什么、商品到底能兑现什么；2) 再让 AI 干活：分类评价、整理常见问题、起草详情页；3) 把表达与实物逐项对照，承诺兑现不了的写法砍掉再上线。
+- 什么时候用 / 常见坑：上新品、写详情页 / 带货文案前；坑：这是判断力不是模板——"会让 AI 写卖点的人很多，懂什么承诺能被商品兑现的人才值钱"，别把核实这步也外包给 AI；评论区补充：退货原因尤其适合拿来核对详情页，买家预期和实物不一致的地方就是文案要改的地方（评论区内容仅浏览器侧读取）。
+
+**适用场景**：跨境电商、TikTok Shop、独立站卖家，做详情页和带货文案的团队。
+
+**怎么用它搞钱**：详情页诊断服务——按"退货原因核对 + 卖点兑现边界"给卖家重写详情页，按页收费；自己跑店时先过这一关再投放，退货率下来就是利润。
+
+**来源**：[@Bengz168 原帖](https://x.com/Bengz168/status/2120679217239118231) · 2026-11-12 08:45 发布（北京时间，经 fxtwitter API 核验）
 
 ## 收录标准
 
@@ -326,6 +417,8 @@
 发现好的文案 prompt / skill，欢迎提 Issue 或 PR（格式见 CONTRIBUTING.md）。
 
 ## 更新日志
+
+- 2026-11-12：早档新增 7 条 X 干货（@XCreators/@Ethan_Ng_13 Grok Bot 脚本教练法——喂风格样本＋灵感五维＋打分标记流失点＋0:18 留存掉点复盘；@billzackfo 一镜到底承重测试带货模板——15–25 秒分镜＋4 条开头备选＋7 天 6 条测试计划，销量数据为第三方转述已注明；@changliuandlina AI 短剧带货"文案变戏"法——3 分钟长剧情＋商品两次出场＋悬念留存＋迁移与本地化，销量为商品累计非单条订单已注明；@GeekCatX 小红书虚拟资料文案方法——Why-What 详情页＋5 大选题引擎＋商品笔记 4 步＋关键词 4 类词与 7 阶段旅程＋填空题去 AI 味；@VivienneAI0120 一条内容拆十条系列作品——母题四问＋任务卡＋五页结构＋集中拍摄＋复盘四段；@Jeffar_AI Gemini 月度内容串中文案 2 条——Hook Bank 30 条开场白＋Reel Scriptwriter 60 秒脚本，2/、3/、4/ 均经 API 核验；@Bengz168 退货原因核对详情页——卖点兑现边界三步；7 帖正文与时间戳均经 fxtwitter API 逐条核验，11-07 07:11／11-10 17:42／11-11 18:42／19:48／23:40／11-12 01:21／08:45 北京，GeekCatX 与 XCreators 两篇 Article 全文已读；9 组关键词 × Latest＋5 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；浏览器报告时间本次全部与 API 一致、无偏差）；去重／排除：@realchendahuang 去 AI 味写作开源 Skill（realchendahuang/open-writing-skill 1★ MIT，音色卡＋Few-Shot＋JIT，属去AI味类目记信号）、@KOF97AI Hypit Clone Viral Ads（属复制爆款类目，hypit 库内已有，记信号）、@changchuan888 月入 5 万美金 AI 视频＋独立站生意（文案方法仅一句话、收入数字未核验）、@tantanyuli video-ai-talking 真人口播对口型工具（514★ MIT，流水线类目记信号）、@x_sanjin X 找话题＋Claude 做视频五步（选题方法论，编剧／脚本类目记信号）、@XuShifu100 多 Agent 自媒体流水线（流水线类目记信号）；GitHub 侧 0 个新收录（文档关键词 `copywriting ai` / `video script writing` 本轮仍全 ≤1★；补充关键词 `copywriting skill` / `viral copywriting` / `short video script skill` / `claude copywriting skill` / `ai copywriter skill` / `sales copywriting skill` / `ugc script skill` 前排均为库内已有或 ≤15★，lanhaiyue-web/Douyin-Viral-Copywriting-Rewrite 4★ 未达线仅记观察）；10 个 GitHub 老条目 star 经 API 刷新（ai-copywriter 1234→1205、ecommerce-visual-copywriting-skill 982→1073、viral-copywriting-skill 80→87、claude-code-copywriting-skills 45→49、dtc-copywriting-skills 28→30、short-video-script-skill 36→45、awesome-ai-ugc-video-prompts 47→54、viral-hooks-skill 101→123、ai-script-generation-skill 52→56、Video-Script-Reverse-Engineering-Pro 33→35）；共 29 条
 
 - 2026-10-30：晚档新增 2 条 X 干货（@KOF97AI 理科浪漫：感性命题套数学模型——信息熵与复合概率两例公式金句、Claude→Manim→Kling→剪映配套流水线；@nickling017 RapClip Day 1 访客文案去怂实操——删怂话、结账勾选换权利表述、定价写死模板规格，为早档 Have a Spine 规则条的落地续篇不重复计；2 帖正文与时间戳均经 fxtwitter API 逐条核验，13:52／17:08 北京）；8 组关键词 × 午后窗口＋7 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；剔除：@Charles_copy YouTube 脚本作者"先懂媒介"观点帖只有结论无可复用步骤、工具清单／晒片／感叹／提问／窗口外帖按宁缺毋滥未收；GitHub 侧本档不做（按文档规则一天一次、早档已做 6 个）；共 22 条
 
